@@ -99,7 +99,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <p>
   <ul>
     <li>If no longer used, it is best to delete Resource Groups and it Resource to prevent billing from stacking up.</li>
-    <li>Head to the Resource Group and select <b>Delete</b> to open a window on the right. Deletion of the Resource Group require verification by entering the name of the resource.</li>
+    <li>Head to the Resource Group and select <b>Delete</b> to open a window on the right. Deletion of the Resource Group require verification by entering its name, it's also convenient since it deletes all resources in that group</li>
     <ul>
       <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/6d0f216d-f7fb-4409-98d0-aa7bb4d9c7b6"/></li>
     </ul>
